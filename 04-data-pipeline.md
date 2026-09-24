@@ -34,7 +34,3 @@ The owner gets a **living dashboard** and, when needed, a printable or downloada
 Shop staff get a calmer close: enter, upload, glance at how their shop is tracking.
 
 That’s the whole pipeline: **capture → one source of truth → a story people can act on the same day.**
-
----
-
-*Technical stack for hirers who ask: web app, SQL, JavaScript charts, CSV imports, role-based screens for owner vs staff. The case study leads with the business story first — this page is only the bridge.*
